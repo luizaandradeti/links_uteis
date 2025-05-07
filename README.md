@@ -26,7 +26,7 @@
 
 - https://db-engines.com/en/ranking
 - https://www.oserv.com.br/ranking-bancos-de-dados-mais-populares-em-2024/
-- https://support.hostinger.com/pt/articles/1583226-que-tipo-de-sql-e-usado-nos-servidores-da-hostinger
+
 
 ### Links úteis para construção de back-end
 
@@ -37,8 +37,8 @@
 ### Hospedagem para administradores de ti ou gestores de plataformas prontas (SaaS e PaaS)
 - https://king.host/hospedagem-cloud
 - https://webmail.kinghost.com.br/
-- https://www.hostnet.com.br/atendimento-ao-cliente/
-
+- https://support.hostinger.com/pt/articles/1583226-que-tipo-de-sql-e-usado-nos-servidores-da-hostinger
+- https://www.hostinger.com.br/contatos
 
 >  [!NOTE]
 >   

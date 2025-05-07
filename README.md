@@ -34,11 +34,13 @@
 - Load balance: https://spring.io/guides/gs/spring-cloud-loadbalancer
 - Design patterns: https://www.alura.com.br/artigos/design-patterns-flutter
 
-  ### Hospedagem para administradores de ti ou gestores de plataformas prontas (SaaS e PaaS)
+### Hospedagem para administradores de ti ou gestores de plataformas prontas (SaaS e PaaS)
 - https://king.host/hospedagem-cloud
 - https://webmail.kinghost.com.br/
 - https://www.hostnet.com.br/atendimento-ao-cliente/
 
+
+Estes links não substituem as documentações oficiais. 
 
 >  [!NOTE]
 >   

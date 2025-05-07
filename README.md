@@ -40,8 +40,6 @@
 - https://www.hostnet.com.br/atendimento-ao-cliente/
 
 
-Estes links não substituem as documentações oficiais. 
-
 >  [!NOTE]
 >   
 >  Git para fins de estudo e portfolio profissional, não possui fins políticos.

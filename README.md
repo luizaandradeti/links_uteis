@@ -17,8 +17,7 @@
 - https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=pt-BR
 - https://aws.amazon.com/pt/types-of-cloud-computing/
 
- 
-### Links de rankings por linguagem:
+ ### Links de rankings por linguagem:
 - https://spectrum.ieee.org/top-programming-languages-2024
 - https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas
 
@@ -33,7 +32,6 @@
 - Load balance: https://spring.io/guides/gs/spring-cloud-loadbalancer
 - Design patterns: https://www.alura.com.br/artigos/design-patterns-flutter
   
-
 ### Hospedagem para administradores de ti ou gestores de plataformas prontas (SaaS e PaaS)
 - https://king.host/hospedagem-cloud
 - https://webmail.kinghost.com.br/
@@ -45,8 +43,3 @@
 >  Git para fins de estudo e portfolio profissional, não possui fins políticos.
 > 
 >  Os cálculos de linguagens de codificação Front (HTML e CSS) e as de programação Mobile FrontEnd (Kotlin) não serão computadas no gráficos do meu GIT pois eu não trabalho mais com Front, nem tenho interesse.
- 
-
-
-
-

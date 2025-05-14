@@ -37,6 +37,7 @@
 - https://webmail.kinghost.com.br/
 - https://support.hostinger.com/pt/articles/1583226-que-tipo-de-sql-e-usado-nos-servidores-da-hostinger
 - https://www.hostinger.com.br/contatos
+- https://www.locaweb.com.br/blog/produtos/email-profissional/email-profissional-lgpd/
 
 >  [!NOTE]
 >   

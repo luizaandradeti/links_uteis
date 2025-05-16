@@ -39,6 +39,7 @@
 - https://www.hostinger.com.br/contatos
 - https://www.locaweb.com.br/blog/produtos/email-profissional/email-profissional-lgpd/
 - https://www.siteground.com/tutorials/phpmyadmin/installation/
+- https://aws.amazon.com/pt/route53/
 - https://registro.br/tecnologia/ferramentas/whois/
 
 >  [!NOTE]

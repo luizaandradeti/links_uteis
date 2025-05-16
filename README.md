@@ -37,10 +37,14 @@
 - https://webmail.kinghost.com.br/
 - https://support.hostinger.com/pt/articles/1583226-que-tipo-de-sql-e-usado-nos-servidores-da-hostinger
 - https://www.hostinger.com.br/contatos
-- https://www.locaweb.com.br/blog/produtos/email-profissional/email-profissional-lgpd/
-- https://www.siteground.com/tutorials/phpmyadmin/installation/
-- https://aws.amazon.com/pt/route53/
-- https://registro.br/tecnologia/ferramentas/whois/
+- https://www.locaweb.com.br/blog/produtos/email-profissional/email-profissional-lgpd/ -
+- https://www.siteground.com/tutorials/phpmyadmin/installation/ - Instação de phpmyadmin em servidor de hospedagem
+- https://aws.amazon.com/pt/route53/ - Registro e criação de DNS na AWS
+- https://registro.br/tecnologia/ferramentas/whois/ - Informações publicas 
+- https://aws.amazon.com/pt/migrate-modernize-build/cloud-migration/  - Migração para nuvem
+- https://www.gov.br/mdic/pt-br/assuntos/camex/pcn/diretrizes-da-ocde-para-empresas-multinacionais
+- https://www.gov.br/anpd/pt-br
+- https://www.privacytools.com.br/empresas-internacionais/
 
   ### Velocidade da rede
   https://fast.com/pt/

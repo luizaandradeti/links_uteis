@@ -38,6 +38,8 @@
 - https://support.hostinger.com/pt/articles/1583226-que-tipo-de-sql-e-usado-nos-servidores-da-hostinger
 - https://www.hostinger.com.br/contatos
 - https://www.locaweb.com.br/blog/produtos/email-profissional/email-profissional-lgpd/
+- https://www.siteground.com/tutorials/phpmyadmin/installation/
+- https://registro.br/tecnologia/ferramentas/whois/
 
 >  [!NOTE]
 >   

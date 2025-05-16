@@ -42,6 +42,9 @@
 - https://aws.amazon.com/pt/route53/
 - https://registro.br/tecnologia/ferramentas/whois/
 
+  ### Velocidade da rede
+  https://fast.com/pt/
+
 >  [!NOTE]
 >   
 >  Git para fins de estudo e portfolio profissional, não possui fins políticos.
